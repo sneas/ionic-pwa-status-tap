@@ -1,0 +1,7 @@
+{
+  "name": "ionic-pwa-status-tap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
