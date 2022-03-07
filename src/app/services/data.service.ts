@@ -68,7 +68,35 @@ export class DataService {
       date: 'Last Week',
       id: 7,
       read: false
-    }
+    },
+    {
+      fromName: 'Matt Chorsey',
+      subject: 'New event: Trip to Vegas',
+      date: '9:32 AM',
+      id: 8,
+      read: false
+    },
+    {
+      fromName: 'Lauren Ruthford',
+      subject: 'Long time no chat',
+      date: '6:12 AM',
+      id: 9,
+      read: false
+    },
+    {
+      fromName: 'Jordan Firth',
+      subject: 'Report Results',
+      date: '4:55 AM',
+      id: 10,
+      read: false
+    },
+    {
+      fromName: 'Bill Thomas',
+      subject: 'The situation',
+      date: 'Yesterday',
+      id: 11,
+      read: false
+    },
   ];
 
   constructor() { }
